@@ -1,4 +1,13 @@
 # my_env_apps
 This repository stores the env and apps .
 
-contains work env and skill tree.
+Contains work env and skill tree.
+
+Tree
+![](pic/tree.png)
+
+
+
+
+Env
+![](pic/env.png)
